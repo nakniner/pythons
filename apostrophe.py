@@ -12,3 +12,7 @@ print(test)
 age = 40
 message = "My age is " + str(age)
 print(message)
+
+age = 37
+message = "My wife's age is " + str(age)
+print(message)
